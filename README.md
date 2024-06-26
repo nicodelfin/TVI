@@ -1,6 +1,5 @@
 # TVI
 # Visualización de Datos de Producción de Café
-hola bb
 
 ## Introducción
 
