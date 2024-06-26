@@ -9,7 +9,7 @@ Gabriel Andrade, Nicolás Delfin, Alexia Latorre y Amaia León
 
 ## Visualización 1
 explicación 
-
+!
 
 
 
