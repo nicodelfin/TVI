@@ -69,14 +69,18 @@ explicación
 
 ## Datos utilizados
 Para que funcione correctamente el código se requiere de ciertos datos;
-**1.* Primeramente se requiere de la base de datos utilizada, la cual...
+
+**1.* Primeramente se requiere de la base de datos utilizada, la cual sacamos del siguiente link: 
+
 **2.* Segundo, es necesario descargar los mapas para la 4ta y 5ta visualización.
-El primer mapa está dentro de los archivos adjuntos, 
-[enlace](https://www.bcn.cl/siit/mapas_vectoriales)
+
+El primer mapa está dentro de los archivos adjuntos y el segundo mapa está en el siguiente link: [enlace](https://www.bcn.cl/siit/mapas_vectoriales)
 
 
-## Códigos que se usaron como base con créditos correspondientes
-enlace
+## Referencias
+Se utilizó inteligencia artificial como apoyo para el proyecto (ChatGPT)
+
+
 
 
 
