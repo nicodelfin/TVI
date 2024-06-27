@@ -14,11 +14,6 @@ Gabriel Andrade, Nicolás Delfin, Alexia Latorre y Amaia León
 
 ![Visualización 1.2](https://github.com/nicodelfin/TVI/blob/main/Visualizaci%C3%B3n%201.3.jpg)
 
-En estas dos visualizaciones, se puede ven ver los promedios generales de establecimientos Urbanos y No Urbanos.
-
-La segunda de ellas nos permite analizar de mejor manera como se comporta el promedio general dependiendo del establecimiento.
-
-
 ## Visualización 2
 
 
