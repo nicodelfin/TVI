@@ -77,7 +77,7 @@ Se utilizó inteligencia artificial como apoyo para el proyecto (ChatGPT)
 
 Además, las clases de visualización fueron de gran ayuda en ciertos momentos específicos.
 
-Link de las clases de visualización ---- [enlace] 
+Link de las clases de visualización ---- [enlace](https://github.com/daniopitz/visualizacion/tree/main)
 
 
 
