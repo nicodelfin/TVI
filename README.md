@@ -15,10 +15,7 @@ Gabriel Andrade, Nicolás Delfin, Alexia Latorre y Amaia León
 ![Visualización 1.2](https://github.com/nicodelfin/TVI/blob/main/Visualizaci%C3%B3n%201.3.jpg)
 
 ## Visualización 2
-
-
-
-
+![Visualización 1.2](https://github.com/nicodelfin/TVI/blob/main/Visualizaci%C3%B3n%202.jpg)
 
 
 
