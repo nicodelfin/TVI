@@ -3,9 +3,9 @@ Gabriel Andrade, Nicolás Delfin, Alexia Latorre y Amaia León
 
 # Visualización Educación Secundaria Chile
 ## Resumen del Proyecto
-
-
-
+Este proyecto indaga sobre la educación secundaria en Chile, analizando el promedio general de los estudiantes en estapa escolar durante el año 2022. La data fue rescatada de data.gob, una página del gobierno Chileno que sube dataset para uso público. 
+El proyecto trabaja como eje central con el promedio general de cada uno de los estudiantes del año 2022 y busca formar relaciones con otros aspectos de los alumnos, como lo es la comuna en la que vive, la región donde se ubica el establecimiento, el porcentaje de asistencia, entre otros. 
+Para lograr esto, se generaron 8 visualizaciones, que permitieron comprender de mejor manera el rendimiento academico de ese año, con factores externos al promedio de notas. A continuación se encontrarán estas mismas incluyendo una interpretación de cada una de ellas.
 
 ## Visualización 1
 ![Visualización 1](https://github.com/nicodelfin/TVI/blob/main/Visualizaci%C3%B3n%201.jpg?raw=true)
